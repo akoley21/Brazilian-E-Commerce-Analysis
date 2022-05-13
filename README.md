@@ -5,10 +5,10 @@ Analyzing E-Commerce dataset to draw insights about sales pattern across differe
 
 Analyzing E-Commerce dataset to draw insights about sales pattern across different geographic regions and locations. Expanding Customer reach by improving the sales of the business by identifying most valued regions and products.
 
-Data Set - https://www.kaggle.com/olistbr/brazilian-ecommerce/home
-Technology Stack – ADF/SSIS, SSAS, Power BI, SQL Server
-The solution could be done in either ADF or SSIS or mix of both (SSIS and ADF).
-IDE – Visual Studio data Tools
+Data Set - https://www.kaggle.com/olistbr/brazilian-ecommerce/home<br>
+Technology Stack – ADF/SSIS, SSAS, Power BI, SQL Server<br>
+The solution could be done in either ADF or SSIS or mix of both (SSIS and ADF).<br>
+IDE – Visual Studio data Tools<br>
 
 Use Cases/KPI’s:
 1. Performing ETL operations on dataset
